@@ -12,3 +12,4 @@ doc/vbcc.pg
 doc/vbcc.toc
 doc/vbcc.tp
 doc/vbcc.vr
+CMakeLists.txt*.user
